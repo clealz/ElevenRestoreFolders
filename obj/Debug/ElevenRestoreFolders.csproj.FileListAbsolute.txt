@@ -1,0 +1,17 @@
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Debug\ElevenRestoreFolders.exe.config
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Debug\ElevenRestoreFolders.exe
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Debug\ElevenRestoreFolders.pdb
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.csproj.AssemblyReference.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.csproj.SuggestedBindingRedirects.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\MainWindow.g.cs
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\App.g.cs
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders_MarkupCompile.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders_MarkupCompile.lref
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\App.baml
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\MainWindow.baml
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.g.resources
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.Properties.Resources.resources
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.csproj.GenerateResource.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.csproj.CoreCompileInputs.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.exe
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Debug\ElevenRestoreFolders.pdb

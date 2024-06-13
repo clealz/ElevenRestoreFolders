@@ -1,0 +1,17 @@
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Release\ElevenRestoreFolders.exe.config
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Release\ElevenRestoreFolders.exe
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\bin\Release\ElevenRestoreFolders.pdb
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.csproj.AssemblyReference.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.csproj.SuggestedBindingRedirects.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\MainWindow.g.cs
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\App.g.cs
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders_MarkupCompile.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders_MarkupCompile.lref
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\App.baml
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\MainWindow.baml
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.g.resources
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.Properties.Resources.resources
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.csproj.GenerateResource.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.csproj.CoreCompileInputs.cache
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.exe
+D:\Users\camil\Documents\SharpDevelop Projects\ElevenRestoreFolders\ElevenRestoreFolders\obj\Release\ElevenRestoreFolders.pdb
