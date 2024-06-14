@@ -119,7 +119,7 @@
         </Style>
     </Window.Resources>
     <DockPanel>
-        <Grid DockPanel.Dock="Top" VerticalAlignment="Stretch" Height="Auto" Margin="10">
+        <Grid DockPanel.Dock="Top" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Margin="10">
             <CheckBox x:Name="chkObjectsTD" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="100" Width="100" Checked="CheckBoxChanged" Unchecked="CheckBoxChanged">
                 <DockPanel Height="100">
                     <Image DockPanel.Dock="Top" Source="/Resources/imageres_198.ico" Margin= "5" />
@@ -187,7 +187,7 @@
             <Button Style="{DynamicResource CircularButtonStyle}" Name="btnAbout" Height="25" Width="25" HorizontalAlignment="Right" Margin="5" VerticalAlignment="Bottom" BorderBrush="Transparent" Background="Transparent" Cursor="Hand" Click="btnAbout_Click">
                 <DockPanel>
                     <Image Source="Resources/About.png" Margin="2"/>
-                    <TextBlock Text="Test"/>
+                    <!--<TextBlock Text="Test"/>-->
                 </DockPanel>
             </Button>
         </Grid>
